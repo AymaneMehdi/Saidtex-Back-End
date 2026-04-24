@@ -19,7 +19,7 @@ It is built with **Node.js**, **Express.js**, and **MongoDB**, and provides auth
 ## Project Structure
 
 ```
-Back-End/
+Saidtex-Back-End/
 ├── controllers/        # Handles business logic (login, partners)
 │   ├── loginController.js
 │   └── partnerController.js
@@ -48,8 +48,8 @@ Back-End/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/saidtexofficial/Back-End.git
-   cd Back-End
+   git clone https://github.com/Saidtex-Back-End.git
+   cd Saidtex-Back-End
    ```
 
 2. **Install dependencies**
