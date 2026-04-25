@@ -48,7 +48,7 @@ Saidtex-Back-End/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Saidtex-Back-End.git
+   git clone https://github.com/AymaneMehdi/Saidtex-Back-End.git
    cd Saidtex-Back-End
    ```
 
